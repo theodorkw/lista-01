@@ -4,4 +4,4 @@ Este repositório contém a resolução de todas as listas de exercício da disc
 
 ## Listas
 
-[Lista 01](https://github.com/theodorkw/lista-01/tree/main/lista-01) - Sistema de Controle de Versão
+[Lista 01](https://github.com/theodorkw/lista-01/tree/main/lista-01) - Sistema de Controle de Versão 
